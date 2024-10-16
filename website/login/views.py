@@ -22,7 +22,7 @@ def loginaction(request):
         if t==():
             return render(request,'error.html')
         else:
-            return redirect('authentication6')
+            return redirect('F6')
     return render(request,'F2.html')
    
 
