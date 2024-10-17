@@ -25,4 +25,3 @@ def loginaction(request):
             return redirect('F6')
     return render(request,'F2.html')
    
-
